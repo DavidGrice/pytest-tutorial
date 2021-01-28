@@ -3,6 +3,7 @@ BACKEND CODE WAS MADE THROUGH TUTORIAL
 https://www.computerhope.com/issues/ch002076.htm
 ALL RIGHTS FOR THE WEBSITE BELONG TO THEM!
 BACKEND PRE-REQS
+BACKEND FILES - https://github.com/DavidGrice/pytest-tutorial/tree/master
 1) Node
 windows - npm install npm -g
 linux/macos - sudo npm install npm -g
@@ -37,5 +38,8 @@ INSERT INTO items (name, price) VALUES
 */
 /*
 FRONTEND PRE-REQS
-chromedriver
+CHROME DRIVER - https://chromedriver.chromium.org/downloads
+VSCODE - https://code.visualstudio.com/
+PYCHARM - https://www.jetbrains.com/pycharm/
+NODEJS - https://nodejs.org/en/
 */
