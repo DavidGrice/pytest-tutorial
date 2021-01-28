@@ -1,4 +1,7 @@
 /* 
+BACKEND CODE WAS MADE THROUGH TUTORIAL 
+https://www.computerhope.com/issues/ch002076.htm
+ALL RIGHTS FOR THE WEBSITE ARE BROUGHT THANKS TO THEM!
 BACKEND PRE-REQS
 1) Node
 windows - npm install npm -g
