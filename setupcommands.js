@@ -19,7 +19,7 @@ npm install nodemon --save-dev
 windows - "devstart": "SET DEBUG=myapp:* & nodemon ./bin/www"
 linux/macos - "devstart": "DEBUG=myapp:* nodemon ./bin/www"
 6) install sqlite3
-windows - from website
+windows - https://sqlite.org/download.html
 macos - sudo port install sqlite3
       - brew install sqlite
 linux - sudo apt install sqlite3
