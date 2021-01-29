@@ -1,5 +1,5 @@
 # pytest-tutorial
-## Purpose: To use Selenium, Nodejs, Expressjs, SQLite Python and Pytest for unit testing.
+## Purpose: To use Selenium, Nodejs, Expressjs, SQLite Python, and Pytest for unit testing.
 ### Thanks To Computer Hope for Website Tutorial
 https://www.computerhope.com/issues/ch002076.htm
 
