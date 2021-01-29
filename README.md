@@ -41,3 +41,6 @@ https://www.computerhope.com/issues/ch002076.htm
    ('Parsley', 100), 
    ('Spinach', 350);
 3) .quit
+
+# Follow along on Youtube!
+## * Link: https://youtu.be/vYyg4_FDKzI
